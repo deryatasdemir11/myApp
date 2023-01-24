@@ -1,0 +1,9 @@
+.about-header{
+    color: whitesmoke;
+    width: 80%;
+}
+
+p {
+    text-align: left;
+    font-size: calc(8px + 2vmin);
+}
